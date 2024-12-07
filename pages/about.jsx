@@ -28,7 +28,7 @@ export default function About() {
   return (
     <div className="px-10 sm:px-20 md:px-32 lg:mb-12 lg:px-60 mx-auto max-w-[75rem]">
       <Head>
-        <title>about ✦ pranjal</title>
+        <title>about ✦ Amirhossein Salmani</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <main className="  max-w-screen ">
@@ -121,34 +121,34 @@ export default function About() {
               <span className="text-red-700 font-bold">GMail</span>{" "}
               <a
                 onClick={() =>
-                  navigator.clipboard.writeText("shikhar.pranjal3@gmail.com")
+                  navigator.clipboard.writeText("amirhosseinsalmanidev@gmail.com")
                 }
                 className=" underline underline-offset-4 decoration-2 decoration-purple-400 group select-all font-semibold dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select "
-                href="mailto:shikhar.pranjal3@gmail.com"
+                href="mailto:amirhosseinsalmanidev@gmail.com"
               >
                 {" "}
-                shikhar.pranjal3@gmail.com
+                amirhosseinsalmanidev@gmail.com
               </a>{" "}
               or <span className="text-blue-700 font-bold">LinkedIn</span>{" "}
               <a
-                href="http://linkedin.com/in/pranjalshikhar"
+                href="http://linkedin.com/in/amirhosseinsalmani"
                 className=" underline underline-offset-4 decoration-2 decoration-purple-400 font-semibold dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select"
                 rel="noopener noreferrer"
                 target="blank"
               >
                 {" "}
-                Pranjal Shikhar Sinha{" "}
+                Amirhossein Salmani{" "}
               </a>{" "}
               or you can DM me on{" "}
               <span className="text-orange-500 font-bold">Instagram</span>{" "}
               <a
-                href="https://instagram.com/pranjal.fig"
+                href="https://instagram.com/amhousa"
                 target="blank"
                 rel="noopener noreferrer"
                 className=" font-semibold underline underline-offset-4 decoration-2 decoration-purple-400 dark:hover:text-purple-400 hover:text-purple-700 cursor-pointer select "
               >
                 {" "}
-                @pranjal.fig{" "}
+                @anhousa{" "}
               </a>{" "}
             </p>
           </div>

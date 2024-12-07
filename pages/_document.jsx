@@ -9,13 +9,13 @@ export default function Document() {
     >
       <Head>
         {/* <title>pranjal ✦ developer, designer</title> */}
-        <meta name="title" content="pranjal ✦ developer, designer" />
+        <meta name="title" content="Amirhossein Salmani ✦ developer, designer" />
         <meta name="description" content="Developer // Designer // Weeb" />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://pranjalshikhar.vercel.app/" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:url" content="https://amirsalmani.com/" />
+        <meta property="og:title" content="Amirhossein Salmani ✦ developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
@@ -29,11 +29,11 @@ export default function Document() {
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://pranjalshikhar.vercel.app/"
+          content="https://amirsalmani.com/"
         />
         <meta
           property="twitter:title"
-          content="pranjal ✦ developer, designer"
+          content="Amirhossein Salmani ✦ developer, designer"
         />
         <meta
           property="twitter:description"
@@ -45,8 +45,8 @@ export default function Document() {
         />
 
         {/* whatsapp */}
-        <meta property="og:site_name" content="pranjal ✦ developer, designer" />
-        <meta property="og:title" content="pranjal ✦ developer, designer" />
+        <meta property="og:site_name" content="Amirhossein Salmani ✦ developer, designer" />
+        <meta property="og:title" content="Amirhossein Salmani ✦ developer, designer" />
         <meta
           property="og:description"
           content="Developer // Designer // Weeb"
@@ -59,7 +59,7 @@ export default function Document() {
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
+        <link rel="canonical" href="https://amirsalmani.com/" />
         <link
           rel="search"
           href="/opensearch.xml"
