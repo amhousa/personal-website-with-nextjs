@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>pranjal ✦ developer, designer</title>
+        <title>Amir Salmani ✦ developer, designer</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <div className="lg:min-h-screen px-10 sm:px-20 md:px-32 lg:mb-12 lg:px-60 mx-auto max-w-[75rem]">
@@ -50,7 +50,7 @@ export default function Home() {
             />
             <div className="flex flex-col ml-4">
               <h2 className="flex sm:text-2xl md:text-2xl lg:text-2xl">
-                <span className="font-semibold">pranjal shikhar</span>
+                <span className="font-semibold">Amir Salmani</span>
                 <span>
                   <Image
                     src={currentTheme === "dark" ? BooWhite : BooBlack}
@@ -62,11 +62,11 @@ export default function Home() {
               </h2>
               <h3>
                 <Link
-                  href={"https://www.linkedin.com/in/pranjalshikhar"}
+                  href={"https://www.linkedin.com/in/amirhosseinsalmani/"}
                   target="_blank"
                   className="text-[#717171bb] flex items-center"
                 >
-                  <p>@pranjal</p>
+                  <p>@amhousa</p>
                   <BsArrowUpRight className="stroke-1 h-3" />
                 </Link>
               </h3>
