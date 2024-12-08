@@ -7,7 +7,7 @@ import Image from "next/image";
 import CategoryCard from "@/components/CategoryCard";
 
 import Flash from "@/public/Flash.svg";
-import Hero from "@/public/hero.jpg";
+import Hero from "@/public/hero.png";
 import Rocket from "@/public/Rocket.svg";
 import Sparkles from "@/public/Sparkles.svg";
 import love_black from "@/public/love-black.svg";
