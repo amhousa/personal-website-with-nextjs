@@ -10,8 +10,6 @@ import { BsArrowUpRight } from "react-icons/bs";
 
 import Avatar_Black from "@/public/Avatar-black.svg";
 import Avatar_White from "@/public/Avatar-white.svg";
-import BooBlack from "@/public/boo-black.svg";
-import BooWhite from "@/public/boo-white.svg";
 import Link from "next/link";
 
 export default function Home() {
@@ -51,14 +49,6 @@ export default function Home() {
             <div className="flex flex-col ml-4">
               <h2 className="flex sm:text-2xl md:text-2xl lg:text-2xl">
                 <span className="font-semibold">Amirhossein Salmani</span>
-                <span>
-                  <Image
-                    src={currentTheme === "dark" ? BooWhite : BooBlack}
-                    alt="boo"
-                    width="25"
-                    height="25"
-                  />
-                </span>
               </h2>
               <h3>
                 <Link
