@@ -16,10 +16,10 @@ const Header = () => {
   const router = useRouter().asPath;
   const [mounted, setMounted] = useState(false);
   let Links = [
-    { name: "timeline", link: "/timeline" },
-    { name: "work", link: "/work" },
-    { name: "about", link: "/about" },
-    { name: "tech", link: "/tech" },
+    { name: "Timeline", link: "/timeline" },
+    { name: "Work", link: "/work" },
+    { name: "About", link: "/about" },
+    { name: "Skills", link: "/skills" },
   ];
   const [isScrolled, setIsScrolled] = useState(false);
   let [open, setOpen] = useState(false);

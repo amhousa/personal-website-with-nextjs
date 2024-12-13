@@ -11,7 +11,7 @@ import {
   HiOutlineArrowLongRight,
 } from "react-icons/hi2";
 
-const tech = () => {
+const skills = () => {
   const data = [
     {
       title: "VS Code",
@@ -152,7 +152,7 @@ const tech = () => {
   return (
     <div className="min-h-[75vh] md:min-h-[73vh] px-10 sm:px-20 md:px-32 lg:mb-12 lg:px-60 xl:px-80 mx-auto">
       <Head>
-        <title>tech ✦ Amirhossein Salmani</title>
+        <title>Skills ✦ Amirhossein Salmani</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <main className="max-w-screen max-w-5xl mx-auto">
@@ -198,7 +198,7 @@ const tech = () => {
               <div className="flex mx-auto rounded-2xl relative w-full h-full bg-white">
                 <Image
                   src={data[idNumber].main}
-                  alt="tech"
+                  alt="Skills"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className=" select-none p-1 sm:p-2 md:p-3 lg:p-4 h-full w-full flex mx-auto object-contain rounded-2xl "
@@ -246,4 +246,4 @@ const tech = () => {
   );
 };
 
-export default tech;
+export default skills;
