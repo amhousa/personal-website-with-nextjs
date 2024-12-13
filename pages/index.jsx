@@ -19,22 +19,18 @@ export default function Home() {
   useEffect(() => {
     console.clear();
     console.log.apply(console, [
-      "%c Designed and Developed by Pranjal Shikhar %c %c🚀 %c\n",
+      "%c Designed and Developed by Amirhossein Salmani %c %c⚔️ %c\n",
       "color: #fff; background: #8000ff; padding:5px 0;",
       "color: #fff; background: #242424; padding:5px 0 5px 5px;",
       "background: #242424; padding:5px 0",
       "background: #242424; padding:5px 5px 5px 0",
     ]);
-    console.log.apply(console, [
-      "%c Thanks for stopping by, I’m currently looking to a new team of creative designers and developers.\n",
-      "color: #fff; background: #8000ff; padding:5px 0;",
-    ]);
-  }, []);
+ []);
 
   return (
     <>
       <Head>
-        <title>Amirhossein Salmani ✦ developer, designer</title>
+        <title>Amirhossein Salmani ⚔️ Node.js developer</title>
         <link rel="icon" href="/Avatar-white.svg" />
       </Head>
       <div className="lg:min-h-screen px-10 sm:px-20 md:px-32 lg:mb-12 lg:px-60 mx-auto max-w-[75rem]">
