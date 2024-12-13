@@ -47,10 +47,10 @@ export default function Home() {
               height="80"
             />
             <div className="flex flex-col ml-4">
-              <h2 className="flex sm:text-2xl md:text-2xl lg:text-2xl">
+              <h1 className="flex sm:text-2xl md:text-2xl lg:text-2xl">
                 <span className="font-semibold">Amirhossein Salmani</span>
-              </h2>
-              <h3>
+              </h1>
+              <h2>
                 <Link
                   href={"https://www.linkedin.com/in/amirhosseinsalmani/"}
                   target="_blank"
@@ -59,7 +59,7 @@ export default function Home() {
                   <p>@amhousa</p>
                   <BsArrowUpRight className="stroke-1 h-3" />
                 </Link>
-              </h3>
+              </h2>
             </div>
           </div>
           <div className="mt-12 text-base md:text-xl lg:text-xl xl:text-xl 2xl:text-xl">
