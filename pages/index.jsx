@@ -66,8 +66,7 @@ export default function Home() {
             <p className="sm:leading-6 md:leading-6 lg:leading-8">
             Hello, I am Amirhossein Salmani, a professional Full Stack Developer based in Iran.
 I am proud to say that despite all the challenges in Iran, I have managed to lead a creative and innovative team in the field of web development and online businesses.
-If you have a project or collaboration proposal, feel free to get in touch through the "Contact" section.
-            </p>
+If you have a project or collaboration proposal, feel free to get in touch through the Contact section. ✨💻🚀            </p>
           </div>
         </div>
         <div className="mt-28 mx-auto">
