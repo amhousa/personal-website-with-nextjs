@@ -49,6 +49,14 @@ export default function Home() {
             <div className="flex flex-col ml-4">
               <h1 className="flex sm:text-2xl md:text-2xl lg:text-2xl">
                 <span className="font-semibold">Amirhossein Salmani</span>
+                <span>
+                <Image
+                    src={currentTheme === "dark" ? BooWhite : BooBlack}
+                    alt="boo"
+                    width="25"
+                    height="25"
+                  />
+                </span>
               </h1>
               <h2>
                 <Link
@@ -64,9 +72,11 @@ export default function Home() {
           </div>
           <div className="mt-12 text-base md:text-xl lg:text-xl xl:text-xl 2xl:text-xl">
             <p className="sm:leading-6 md:leading-6 lg:leading-8">
-            Hello, I am Amirhossein Salmani, a professional Full Stack Developer based in Iran.
-I am proud to say that despite all the challenges in Iran, I have managed to lead a creative and innovative team in the field of web development and online businesses.
-If you have a project or collaboration proposal, feel free to get in touch through the Contact section. ✨💻🚀            </p>
+            Hello! I’m Amirhossein Salmani, a professional Full Stack Developer based in Iran.
+Despite the challenges in Iran, I’ve had the privilege of leading a creative and innovative team in the fields of web development and online businesses.
+If you have a project or collaboration proposal, feel free to reach out via the Contact section. ✨💻🚀
+
+            </p>
           </div>
         </div>
         <div className="mt-28 mx-auto">
