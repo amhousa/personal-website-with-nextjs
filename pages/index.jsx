@@ -2,12 +2,11 @@ import { useEffect } from "react";
 import { useTheme } from "next-themes";
 import Head from "next/head";
 import Image from "next/image";
-
 import Contact from "@/components/Contact";
 import Experience from "@/components/Experience";
-
 import { BsArrowUpRight } from "react-icons/bs";
-
+import BooBlack from "@/public/boo-black.svg";
+import BooWhite from "@/public/boo-white.svg";
 import Avatar_Black from "@/public/Avatar-black.svg";
 import Avatar_White from "@/public/Avatar-white.svg";
 import Link from "next/link";
