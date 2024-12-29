@@ -7,6 +7,7 @@ import GitHub from "../public/icons/github@2x.png";
 import Behance from "../public/icons/behance@2x.png";
 import Instagram from "../public/icons/instagram@2x.png";
 import Gmail from "../public/icons/google@2x.png";
+import Wikipedia from "../public/icons/Wikipedia.svg";
 import Image from "next/image";
 import Star from "@/public/Star.svg";
 
@@ -35,6 +36,15 @@ const Footer = () => {
   return (
     <div className=" flex select-none text-sm  py-16 mt-16 flex-col h-max items-center mx-auto justify-center">
       <div className="flex justify-center space-x-4 md:space-x-6 dark:text-white/70 text-gray-500 text-[0.6rem] sm:text-xs md:text-sm lg:text-md mt-2">
+      <Link
+          href="https://w.wiki/CZjf"
+          target="blank"
+          className=" dark:hover:text-purple-400 hover:text-purple-600 font-semibold"
+        >
+          {" "}
+          {/* Wikipedia{" "} */}
+          <Image src={Wikipedia} alt="Wikipedia" width="30" />
+        </Link>
         <Link
           href="https://www.linkedin.com/in/amirhosseinsalmani"
           target="blank"
