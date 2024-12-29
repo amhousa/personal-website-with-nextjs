@@ -64,9 +64,9 @@ export default function Home() {
           </div>
           <div className="mt-12 text-base md:text-xl lg:text-xl xl:text-xl 2xl:text-xl">
             <p className="sm:leading-6 md:leading-6 lg:leading-8">
-            I am a wizard of design and development, passionate about creating modern, responsive, and user-focused web applications. Leveraging the latest technologies, I bring ideas to life with solutions that are not only visually stunning but also highly functional and scalable.
-            <br />
-            I believe the perfect user interface is where form meets function—a seamless blend of elegant design, efficient performance, and a deep understanding of user needs. Every pixel, every line of code serves a purpose: to deliver an intuitive and impactful digital experience.
+              Hello, I am Amirhossein Salmani, a professional Full Stack Developer based in Iran.
+              I am proud to say that despite all the challenges in Iran, I have managed to lead a creative and innovative team in the field of web development and online businesses.
+              If you have a project or collaboration proposal, feel free to get in touch through the "Contact" section. ✨💻🚀
             </p>
           </div>
         </div>
