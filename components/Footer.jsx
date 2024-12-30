@@ -7,7 +7,7 @@ import GitHub from "../public/icons/github@2x.png";
 import Behance from "../public/icons/behance@2x.png";
 import Instagram from "../public/icons/instagram@2x.png";
 import Gmail from "../public/icons/google@2x.png";
-import Wikipedia from "@/public/icons/Wikipedia.svg";
+import Wikipedia from "../public/icons/wikipedia@2x.png";
 import Image from "next/image";
 import Star from "@/public/Star.svg";
 
