@@ -105,9 +105,7 @@ const Experience = () => {
       </div>
       <div className="w-[80%] max-w-2xl mx-auto">
         <div className="text-center font-normal mb-6 tracking-normal text-sm leading-5 sm:text-base lg:text-lg ">
-          That was a short information about the domain that I have previously
-          worked on. while you&apos;re at it, have a look at few chosen works
-          that i have created using above domain.
+        For a ninja, everywhere is 🇯🇵.
         </div>
         <div className="flex justify-center space-x-3 md:space-x-6 lg:space-x-8 items-center  my-4">
           <div className=" group border-blue-400 hover:bg-blue-400 text-blue-500 hover:text-white hover:drop-shadow-2xl rounded-md md:rounded-xl px-2 py-1 md:px-4 md:py-2 shadow-md drop-shadow-lg dark:bg-blue-400 dark:shadow-none dark:hover:shadow-white select-none dark:text-white shadow-blue-300">
